@@ -88,13 +88,6 @@ namespace Console
                         desc = System.Console.ReadLine();
                         
                         Car updatedCar = new Car { Id = id, BrandId = brandId, ModelYear = year, DailyPrice = price, Description = desc };
-                        foreach (var car in carManager.GetAll())
-                        {
-                            if (car.Id == updatedCar.Id)
-                            {
-                                updatedCar = car;
-                            }
-                        }
                         carManager.Update(updatedCar);
                         System.Console.WriteLine("Car updated successfully.");
                         break;

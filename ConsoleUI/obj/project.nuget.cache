@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2vdwMP3L/NBfqJrMfrYI2QwlVCWeTieZOTeb8OUXeqz3KcJL4x4sIBeADkBRhZbMBc55VGPp7Vb6OI+TJhuPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

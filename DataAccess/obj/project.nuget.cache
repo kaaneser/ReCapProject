@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmxIsOXSs3aXG1Skg733Ww68YbfJZ/q/L63bN0hDZ8R19pxtJW14PEVCns+b/w/WgEPM10kyMQqosLCq47W3pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaan\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kaan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
